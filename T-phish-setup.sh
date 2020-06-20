@@ -5,11 +5,11 @@ cd $home
 git clone https://github.com/Stephin-Franklin/T-Phish
 cd T-Phish
 unzip T-Phish.zip
-cd $home
-rm -rf T-phish
 cd T-Phish
 chmod +x start.sh
 figlet Please switch on hotspot for getting link
 ./start.sh
 ./phish.sh
 figlet Thankyou!
+cd $home
+rm -rf T-phish
