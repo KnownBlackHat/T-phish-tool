@@ -6,7 +6,7 @@ git clone https://github.com/Stephin-Franklin/T-Phish
 cd T-Phish
 unzip T-Phish.zip
 cd $home
-rm -rf T-phish-setup
+rm -rf T-phish
 cd T-Phish
 chmod +x start.sh
 figlet Please switch on hotspot for getting link
