@@ -12,4 +12,6 @@ figlet Please switch on hotspot for getting link
 ./phish.sh
 figlet Thankyou!
 cd $home
+cd $home
+rm -rf T-phish
 rm -rf T-phish
