@@ -1,4 +1,5 @@
 apt update && apt upgrade
+pkg install cmatrix
 pkg install figlet
 figlet Starting!!
 cd $home
@@ -11,7 +12,4 @@ figlet Please switch on hotspot for getting link
 ./start.sh
 ./phish.sh
 figlet Thankyou!
-cd $home
-cd $home
-rm -rf T-phish
-rm -rf T-phish
+cmatrix
