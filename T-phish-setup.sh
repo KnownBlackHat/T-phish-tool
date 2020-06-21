@@ -1,5 +1,6 @@
 apt update && apt upgrade
-pkg install lolcat
+pkg install ruby
+gem install lolcat
 pkg install cmatrix
 pkg install figlet
 figlet Starting!!
