@@ -4,7 +4,7 @@ gem install lolcat
 pkg install cmatrix
 pkg install figlet
 figlet Starting!!
-cd $home
+cd T-phish
 git clone https://github.com/Stephin-Franklin/T-Phish
 cd T-Phish
 unzip T-Phish.zip
